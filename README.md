@@ -1,3 +1,3 @@
-# PS-controller-borad
+# PS-controller-board
 
 for X68000
